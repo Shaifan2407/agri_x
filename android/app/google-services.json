@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160319400474",
+    "project_id": "agri-x-2f3ce",
+    "storage_bucket": "agri-x-2f3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160319400474:android:4909f29de13a2e8f47ffa3",
+        "android_client_info": {
+          "package_name": "com.example.agri_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ANQtDzkS68HziGdlxOCivN4xzYDgiPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
